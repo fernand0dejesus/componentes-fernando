@@ -1,0 +1,25 @@
+
+        .contenedor{
+            text-align:'center';
+            background-color: 'red';
+            padding: '20px';
+            border-radius:'10px'
+        }
+        .titulo{
+            color:'#333';
+            font-size: '24px'
+    
+        }
+        .parrafo{
+    
+             color:'#666';
+            font-size: '16px'
+        }
+        .Link{
+            text-align:'center';
+            background-color: 'red';
+            padding: '20px';
+            border-radius:'10px'
+        }
+    
+    
