@@ -5,6 +5,8 @@ import Link from './components/Link'
 import Live from './components/live'
 import Positioned from './components/Positioned'
 import Test from './components/Test'
+import Cardd from './components/cardd'
+import Card from './components/card'
 
 const App =()=>{
     return(
@@ -21,6 +23,9 @@ titulo="este es un alerta"
 <Link/>
 
 <Additional/>
+
+
+
 <div class="alert alert-success" role="alert">
   <h4 class="alert-heading">Well done!</h4>
   <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
@@ -28,8 +33,16 @@ titulo="este es un alerta"
 </div>
 
 <Positioned/>
+<div>
+  <p>
+
+  </p>
+</div>
+<Card/>
+ 
 
         </>
+        
         )
        
 
